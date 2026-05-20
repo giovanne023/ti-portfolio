@@ -74,3 +74,27 @@ Checklist:
 ## 👨‍💻 Author
 
 Giovanne Zequi
+
+---
+
+## 📸 Screenshots
+
+### Network Diagnostic Test
+
+IP configuration and connectivity tests using Command Prompt.
+
+![IP Configuration](screenshots/Captura%20de%20tela%202026-05-20%20123757.png)
+
+![Ping Test](screenshots/Captura%20de%20tela%202026-05-20%20123805.png)
+
+---
+
+## Results
+
+✔ Network connection active
+
+✔ DNS working correctly
+
+✔ External connectivity verified
+
+✔ Packet loss: 0%
