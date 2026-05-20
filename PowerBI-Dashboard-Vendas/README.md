@@ -32,3 +32,7 @@ The purpose of this project was to improve skills in:
 Giovanne Zequi
 
 Technology in Computer Networks Student
+
+## Dashboard Preview
+
+![Dashboard](Captura de tela 2026-05-20 091726.png)
