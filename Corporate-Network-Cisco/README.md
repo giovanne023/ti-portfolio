@@ -54,3 +54,7 @@ Praticar conceitos de:
 ## 👨‍💻 Autor
 
 Giovanne Zequi
+
+## 📷 Network Preview
+
+![Corporate Network](./Captura%20de%20tela%202026-05-20%20120953.png)
