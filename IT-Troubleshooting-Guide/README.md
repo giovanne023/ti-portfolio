@@ -98,3 +98,51 @@ IP configuration and connectivity tests using Command Prompt.
 ✔ External connectivity verified
 
 ✔ Packet loss: 0%
+
+---
+
+# 🌐 Problem 2: Invalid IP / DHCP Recovery
+
+## Symptoms
+
+- Connection lost
+- Invalid IP assigned
+- Network unavailable
+
+## Diagnostic Steps
+
+### Initial IP
+
+![Initial IP](capturas%20de%20tela/Captura%20de%20tela%202026-05-20%20131239.png)
+
+### DHCP Released
+
+After running:
+
+```cmd
+ipconfig /release
+```
+
+Windows assigned an APIPA address:
+
+169.254.x.x
+
+![Released IP](capturas%20de%20tela/Captura%20de%20tela%202026-05-20%20131337.png)
+
+### DHCP Renew
+
+After running:
+
+```cmd
+ipconfig /renew
+```
+
+The valid address returned.
+
+![Renewed IP](capturas%20de%20tela/Captura%20de%20tela%202026-05-20%20131520.png)
+
+## Resolution
+
+✔ DHCP lease renewed successfully  
+✔ Network connectivity restored  
+✔ Valid IP address assigned again
