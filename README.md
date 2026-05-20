@@ -2,9 +2,9 @@
 
 Technology in Computer Networks Student
 
-## About Me
+## 👨‍💻 About Me
 
-I'm currently studying Computer Networks and building practical projects focused on:
+I'm currently studying Computer Networks and developing practical projects to strengthen my skills in:
 
 - IT Support
 - Help Desk
@@ -13,32 +13,85 @@ I'm currently studying Computer Networks and building practical projects focused
 - Service Desk
 - Troubleshooting
 
-My goal is to develop practical skills and build a strong portfolio for opportunities in IT.
+My goal is to gain practical experience, improve my technical skills, and build a strong portfolio for opportunities in Information Technology.
 
-## Projects
+---
+
+## 📂 Projects
 
 ### 📊 Power BI Sales Dashboard
 
-Interactive dashboard for sales analysis with:
+Interactive sales dashboard developed in Power BI for data visualization and analysis.
 
-- Total Sales
-- Profit Analysis
-- Units Sold
-- Country Filters
-- Product Analysis
+Features:
+
+- Total Sales indicators
+- Profit analysis
+- Units sold analysis
+- Country filters
+- Product distribution charts
 
 Status: ✅ Completed
 
-### 🖥️ IT Support Ticket Dashboard
+---
 
-IT support and service desk metrics dashboard.
+### 🎫 IT Support Ticket Dashboard
 
-Status: 🚧 In Progress
+Dashboard created to monitor and analyze IT support tickets.
 
-### 🌐 Networking Projects
+Features:
 
-- Network configurations
+- Open tickets
+- Closed tickets
+- Average resolution time
+- Ticket categories
+- Priority analysis
+- Department filters
+
+Status: ✅ Completed
+
+---
+
+### 🖧 Corporate Network – Cisco Packet Tracer
+
+Corporate network simulation developed in Cisco Packet Tracer.
+
+Features:
+
+- Router configuration
+- Multiple switches
+- DHCP server
+- Automatic IP assignment
+- Network connectivity tests
+- Structured network topology
+
+Status: ✅ Completed
+
+---
+
+## 🛠️ Technologies
+
+- Power BI
+- Cisco Packet Tracer
+- TCP/IP
+- DHCP
+- Networking Fundamentals
+- IT Support
+- Data Visualization
+
+---
+
+## 🎯 Current Learning Focus
+
+- Network Infrastructure
+- IT Support
+- Power BI Dashboards
+- Routing and Switching
 - Troubleshooting
-- Infrastructure documentation
+- Service Desk Operations
 
-Status: 🚧 Coming soon
+---
+
+## 📌 Author
+
+Giovanne Zequi
