@@ -35,4 +35,4 @@ Technology in Computer Networks Student
 
 ## Dashboard Preview
 
-![Dashboard](Captura de tela 2026-05-20 091726.png)
+![Painel](./Captura%20de%20tela%202026-05-20%20091726.png)
