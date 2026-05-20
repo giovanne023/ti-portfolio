@@ -34,3 +34,7 @@ The goal of this project was to practice:
 Giovanne Zequi
 
 Technology in Computer Networks Student
+
+## Dashboard Preview
+
+![Dashboard](./Captura%20de%20tela%202026-05-20%20103350.png)
